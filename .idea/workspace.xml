@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba016b67-1c93-4c0b-9c92-d56b67348f87" name="Default Changelist" comment="" />
+    <list default="true" id="ba016b67-1c93-4c0b-9c92-d56b67348f87" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classeDisciplina.py" beforeDir="false" afterPath="$PROJECT_DIR$/classeDisciplina.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classeSala.py" beforeDir="false" afterPath="$PROJECT_DIR$/classeSala.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programaPrincipal.py" beforeDir="false" afterPath="$PROJECT_DIR$/programaPrincipal.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cdTxD2Ym8NplAUMhuvIUZZzvmB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -18,7 +27,49 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Python.ExemploPOOPessoas">
+  <component name="RunManager" selected="Python.programaPrincipal">
+    <configuration name="ExemploOOA14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="projetoSENAC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Downloads" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Downloads/ExemploOOA14.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ExemploPOOPessoas (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="projetoSENAC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Downloads" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Downloads/ExemploPOOPessoas (1).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ExemploPOOPessoas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="projetoSENAC" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -40,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="classeDisciplina" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="classeSala" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="projetoSENAC" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,7 +103,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classeDisciplina.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classeSala.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,9 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ExemploPOOPessoas" />
         <item itemvalue="Python.programaPrincipal" />
-        <item itemvalue="Python.classeDisciplina" />
+        <item itemvalue="Python.ExemploPOOPessoas (1)" />
+        <item itemvalue="Python.ExemploPOOPessoas" />
+        <item itemvalue="Python.classeSala" />
+        <item itemvalue="Python.ExemploOOA14" />
       </list>
     </recent_temporary>
   </component>
@@ -116,41 +169,53 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="143" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591290790539">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="143" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591290790539" />
     <state x="775" y="226" key="FileChooserDialogImpl" timestamp="1590857712719">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="775" y="226" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590857712719" />
-    <state width="1371" height="231" key="GridCell.Tab.0.bottom" timestamp="1590863298597">
+    <state width="1899" height="321" key="GridCell.Tab.0.bottom" timestamp="1592254679224">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1371" height="231" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590863298597" />
-    <state width="1371" height="231" key="GridCell.Tab.0.center" timestamp="1590863298597">
+    <state width="1340" height="222" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1591749596953" />
+    <state width="1899" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592254679224" />
+    <state width="1899" height="321" key="GridCell.Tab.0.center" timestamp="1592254679223">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1371" height="231" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590863298597" />
-    <state width="1371" height="231" key="GridCell.Tab.0.left" timestamp="1590863298597">
+    <state width="1340" height="222" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1591749596953" />
+    <state width="1899" height="321" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592254679223" />
+    <state width="1899" height="321" key="GridCell.Tab.0.left" timestamp="1592254679223">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1371" height="231" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590863298597" />
-    <state width="1371" height="231" key="GridCell.Tab.0.right" timestamp="1590863298597">
+    <state width="1340" height="222" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1591749596953" />
+    <state width="1899" height="321" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592254679223" />
+    <state width="1899" height="321" key="GridCell.Tab.0.right" timestamp="1592254679223">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1371" height="231" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590863298597" />
-    <state width="1371" height="286" key="GridCell.Tab.1.bottom" timestamp="1590857714129">
+    <state width="1340" height="222" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1591749596953" />
+    <state width="1899" height="321" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592254679223" />
+    <state width="1899" height="575" key="GridCell.Tab.1.bottom" timestamp="1592194900196">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1371" height="286" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590857714129" />
-    <state width="1371" height="286" key="GridCell.Tab.1.center" timestamp="1590857714129">
+    <state width="1340" height="222" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1591749596954" />
+    <state width="1899" height="575" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592194900196" />
+    <state width="1899" height="575" key="GridCell.Tab.1.center" timestamp="1592194900196">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1371" height="286" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590857714129" />
-    <state width="1371" height="286" key="GridCell.Tab.1.left" timestamp="1590857714129">
+    <state width="1340" height="222" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1591749596953" />
+    <state width="1899" height="575" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592194900196" />
+    <state width="1899" height="575" key="GridCell.Tab.1.left" timestamp="1592194900196">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1371" height="286" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590857714129" />
-    <state width="1371" height="286" key="GridCell.Tab.1.right" timestamp="1590857714129">
+    <state width="1340" height="222" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1591749596953" />
+    <state width="1899" height="575" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592194900196" />
+    <state width="1899" height="575" key="GridCell.Tab.1.right" timestamp="1592194900196">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1371" height="286" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590857714129" />
+    <state width="1340" height="222" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1591749596954" />
+    <state width="1899" height="575" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592194900196" />
   </component>
 </project>
